@@ -1,0 +1,68 @@
+Agadir,1200,100
+Ain Harrouda,0600,30
+Al Hoceima,0800,100
+Azrou,0600,100
+Aït Melloul,0400,100
+Benguérir,1000,100
+Beni Ansar,0400,100
+Benslimane,1000,100
+Berkane,0600,100
+Berrechid,0650,100
+Bouskoura,0400,100
+Béni Mellal,0600,100
+Casablanca,2000,100
+Chefchaouen,0300,100
+Dakhkla,0400,100
+Dar Bouazza,0400,100
+Dcheira El Jihadia,0350,100
+Drargua,0700,100
+El Jadida,0450,100
+El Kelaa Des Sraghna,0300,100
+Errachidia,0400,100
+Essaouira,0450,100
+Fnideq,0400,100
+Fquih Ben Salah,0300,100
+Fès,1500,100
+Guelmim,0400,100
+Guercif,0400,100
+Inezgane,0400,100
+Khouribga,0450,100
+Khémisset,0500,100
+Khénifra,0350,100
+Ksar El Kébir,0400,100 
+Kénitra,0650,100
+Lahraouyine,0300,100
+Larache,0600,100
+Lqliaa,0400,100
+M'diq,0300,100
+Marrakech,1300,100
+Martil,0320,100
+Meknès,0800,100
+Midelt,0250,100
+Mohammédia,0670,100
+Nador,0550,100
+Ouarzazate,0320,100
+Ouazzane,0370,100
+Oued Zem,0300,100
+Oujda,0810,100
+Oulad Teima,0410,100
+Rabat,1350,100
+Safi,0450,100
+Salé,0800,100
+Sefrou,0450,100
+Settat,0600,100
+Sidi Bennour,0500,100
+Sidi Kacem,0400,100
+Sidi Slimane,0400,100
+Skhirat,0350,100
+Souk El Arbaa,0350,100
+Tan-Tan,0300,100
+Tanger,1100,100
+Taourirt,0310,100
+Taroudant,0300,100
+Taza,0400,100
+Tifelt,0320,100
+Tiznit,0300,100
+Témara,0400,100
+Tétouan,0500,100
+Youssoufia,0250,100
